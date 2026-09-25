@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="1"/></pattern>
+    <filter id="lift" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#060A32" flood-opacity=".45"/></filter>
+  </defs>
+  <rect width="1200" height="630" fill="#1F3DF0"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <g transform="rotate(-2 600 315)" filter="url(#lift)">
+    <rect x="90" y="70" width="1020" height="500" rx="4" fill="#FFFFFF"/>
+    <text xml:space="preserve" x="130" y="118" font-family="Courier New" font-size="18" letter-spacing="2" fill="#4B4B57">FAX TRANSMISSION   FROM: FAX   TO: YOU   RE: YOUR MARKETING</text>
+    <line x1="90" y1="136" x2="1110" y2="136" stroke="#D5DBF3" stroke-width="2" stroke-dasharray="8 6"/>
+    <text x="130" y="262" font-family="Futura" font-weight="800" font-stretch="condensed" font-size="92" fill="#16161D" letter-spacing="-2">VIEWS DON'T PAY RENT.</text>
+    <text x="130" y="378" font-family="Futura" font-weight="800" font-stretch="condensed" font-size="92" fill="#16161D" letter-spacing="-2">OFFERS DO.</text>
+    <ellipse cx="338" cy="344" rx="230" ry="66" fill="none" stroke="#D91E14" stroke-width="5" transform="rotate(-3 330 342)"/>
+    <rect x="130" y="440" width="560" height="54" rx="6" fill="#F2FF3D"/>
+    <text x="146" y="478" font-family="Courier New" font-weight="700" font-size="30" fill="#16161D">Just Fax. Copy. Paste. Ask.</text>
+    <text x="130" y="536" font-family="Courier New" font-size="22" fill="#4B4B57">Old-school direct response, rewritten for Gen Z.</text>
+    <g transform="rotate(-9 935 430)">
+      <rect x="825" y="388" width="220" height="86" rx="8" fill="none" stroke="#D91E14" stroke-width="5"/>
+      <rect x="835" y="398" width="200" height="66" rx="5" fill="none" stroke="#D91E14" stroke-width="2"/>
+      <text x="935" y="446" text-anchor="middle" font-family="Futura" font-weight="800" font-stretch="condensed" font-size="34" fill="#D91E14" letter-spacing="1">100% FREE</text>
+    </g>
+  </g>
+</svg>

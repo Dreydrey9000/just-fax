@@ -1,0 +1,362 @@
+{
+  "cards": [
+    {
+      "book": "No B.S. Direct Marketing",
+      "idea": "Message, market, media",
+      "what": "Every campaign has three parts: the market you reach, the message you send, and the media that carries it. Pick the market first, and none of the three works alone.",
+      "remix": "Name one buyer before you write a word, then post where they already scroll, not where you do. Your For You page is not market research.",
+      "wide": false
+    },
+    {
+      "book": "No B.S. Direct Marketing",
+      "idea": "Always an offer. Always a reason.",
+      "what": "Two of the book's ten rules: every piece of marketing makes an offer, and every piece gives a reason to respond right now, not someday.",
+      "remix": "Every post ends with one ask. Every offer gets one real deadline or limit: a drop date, a batch size, or a bonus that really expires. Resetting timers? Sus.",
+      "wide": false
+    },
+    {
+      "book": "No B.S. Direct Marketing",
+      "idea": "Follow up, every time",
+      "what": "Follow-up is one of the book's ten rules. Anyone who didn't answer the first time hears from you again, on purpose, instead of being forgotten.",
+      "remix": "Three messages, not one: a reminder, a last call, then a new angle. Send them by DM, email, or text (with consent). One post is not a launch.",
+      "wide": false
+    },
+    {
+      "book": "Magnetic Marketing",
+      "idea": "Attract, don't chase",
+      "what": "Stop chasing prospects. Draw the right ones to you, then run three systems: one that attracts, one that converts, and one that keeps customers coming back.",
+      "remix": "Content attracts, DMs and a landing page convert, a newsletter retains. Cold-DMing strangers is door-to-door sales with worse Wi-Fi.",
+      "wide": false
+    },
+    {
+      "book": "The Ultimate Marketing Plan",
+      "idea": "The \"why you\" question",
+      "what": "Answer the buyer's real question: why you over every other option, including a competitor, doing it themselves, or doing nothing? Domino's \"30 minutes or less, guaranteed\" is the model.",
+      "remix": "Your \"why you\" has to fit in a bio line and a 3-second hook. If it takes a paragraph, it's a podcast episode, not a reason.",
+      "wide": false
+    },
+    {
+      "book": "The Ultimate Sales Letter",
+      "idea": "The damaging admission",
+      "what": "One of the 28 steps in the book's sales-letter system: make a damaging admission. Name your flaw openly instead of hiding it.",
+      "remix": "Say the flaw first: \"It's not cheap. Here's why.\" Or: \"Ships in 3 weeks, because I make each one by hand.\" Honesty reads as real. Filters don't.",
+      "wide": false
+    },
+    {
+      "book": "No B.S. Guide to Direct Response Social Media Marketing",
+      "idea": "Likes aren't a deposit",
+      "what": "Social media counts only when it produces measurable sales: right market, right message, right media, and results measured in money. Likes, views, viral moments: none of it goes in the bank.",
+      "remix": "Score every platform by sales per hour you spend there, not by followers. Sales are the scoreboard. Aura farming is a hobby, not a business model.",
+      "wide": true
+    },
+    {
+      "book": "No B.S. Guide to Maximum Referrals and Customer Retention",
+      "idea": "Shared interest, space, concern",
+      "what": "Customers stay when three things add up: shared interest (you connect beyond the product), shared space (you keep showing up in their life), and shared concern (you care about their results).",
+      "remix": "Interest: behind-the-scenes posts. Space: a Close Friends list, Discord, or a surprise mailer. Concern: DM buyers a week later asking how it's going.",
+      "wide": true
+    },
+    {
+      "book": "No B.S. Price Strategy",
+      "idea": "Price boldly",
+      "what": "Question every belief you hold about price. The book counts having no premium option as a pricing failure, and says discount only for a specific reason that gets you something back.",
+      "remix": "Before you cut the price, add a tier above it. Discount only for prepay or a bundle. A forever code? Discount Goblin behavior. Buyers learn to wait.",
+      "wide": false
+    },
+    {
+      "book": "No B.S. Sales Success",
+      "idea": "Take-away selling",
+      "what": "Being a little hard to get draws buyers in. It only works with the right positioning and enough interest that you actually turn some people away.",
+      "remix": "Run a waitlist or an application instead of an open door. Cap it at what you can actually deliver: can coach 5 people? Say 5, and mean it.",
+      "wide": false
+    },
+    {
+      "book": "Make 'Em Laugh & Take Their Money",
+      "idea": "Humor sells",
+      "what": "Buyers in a good mood buy more, so humor is a persuasion tool, not a distraction.",
+      "remix": "My excuse for the jokes. Open with the laugh, close with the offer. A funny post with no ask is a free stand-up set.",
+      "wide": false
+    }
+  ],
+  "notes": [
+    "Roast this and sort it into a pile: [PASTE YOUR HOOK, CAPTION, OR AD]",
+    "Build my offer. I sell [WHAT] for $[PRICE] to [WHO BUYS IT] on [PLATFORM].",
+    "My launch flopped: [VIEWS] views, [CLICKS] clicks, [SALES] sales at $[PRICE]. Do the autopsy.",
+    "People keep saying my $[PRICE] [PRODUCT OR SERVICE] is too expensive. Should I drop the price?",
+    "Build a comment-keyword DM funnel on [PLATFORM] that gives away [FREEBIE] and sells [OFFER].",
+    "[NUMBER] people clicked on [PRODUCT] but didn't buy. Write my follow-up: a reminder, a last call, and a new angle.",
+    "Write 3 hooks for a video selling [PRODUCT] to [WHO BUYS IT]. Mark your pick.",
+    "Write the \"why you\" line for my bio. I help [WHO] with [WHAT], and here's what's different: [DIFFERENCE]."
+  ],
+  "chat": [
+    {
+      "who": "you",
+      "html": "<p>roast my tiktok hook for my skincare brand. i'm 19 and just launched. the hook is: \"hey guys so today i wanna talk about my new skincare line that i've been working on for months\"</p>"
+    },
+    {
+      "who": "fax",
+      "html": "<p>Fax here, and your hook just hit my counter like a postcard signed \"guess who.\"</p><p>Quick receipt: I'm an AI marketing coach. Not Dan Kennedy, not affiliated with or endorsed by him or Magnetic Marketing, and not professional advice.</p><p><b>TRASH PILE (3/10):</b> It talks to \"guys\" instead of one buyer. It starts with your calendar, not their skin. And there's no offer.</p><p>\"Hey guys so today\" is the sound a thumb makes right before it swipes to the next GRWM.</p><p>Kennedy's order in <i>No B.S. Direct Marketing</i>: market first (one specific buyer), then message, then media. My take: your months of work are proof. They go after the buyer's problem, never before it.</p><ol><li><b>Open on the buyer's problem.</b> Put one skin type and one cosmetic annoyance in the first line. -&gt; B-Pile</li><li><b>Show the offer.</b> Give the product, the price and [LAUNCH BONUS], plus a real limit [ONLY IF TRUE: first batch is NUMBER units]. -&gt; B-Pile</li><li><b>Close with one tracked ask:</b> \"Tap the link in my bio and use code [CODE] for [LAUNCH BONUS].\" Use a different code on each video so you can see which hook sold. -&gt; A-Pile</li></ol><p><b>Fax-ready:</b><br>1. \"[SKIN TYPE] skin, [COSMETIC ANNOYANCE, e.g., shiny by noon]? I spent months making this [PRODUCT] for you.\" (my pick)<br>2. \"Stop buying [PRODUCT TYPE] made for someone else's skin. This one is for [SKIN TYPE].\"<br>3. \"Tried every [PRODUCT TYPE] for [SKIN TYPE] skin and still [COSMETIC ANNOYANCE]? I'm 19, and I just launched mine.\"</p><p>Keep the annoyance cosmetic. No claims that it cures or treats anything.</p><p><b>Next move:</b> Post my pick and hook #2 as two separate videos, each with its own code. After [NUMBER] days, compare orders by code.</p>"
+    }
+  ],
+  "chatNotes": [
+    {
+      "pen": "Pile, score, reason. One line.",
+      "text": "The Pile Test sorts your work like mail on a counter. It builds on the A-pile idea Kennedy describes in interviews: relevant mail gets opened now, the rest gets tossed."
+    },
+    {
+      "pen": "Market first.",
+      "text": "He credits the book, then keeps his own opinion in a separate \"My take\" so nothing he made up gets pinned on Kennedy."
+    },
+    {
+      "pen": "Tracked, not vibes.",
+      "text": "A different code on each video, so the next step is a test with a real number at the end, not a feeling."
+    }
+  ],
+  "books": [
+    {
+      "year": "1990",
+      "title": "The Ultimate Sales Letter",
+      "idea": "A 28-step system for a sales letter that gets delivered, opened, read to the end, and answered."
+    },
+    {
+      "year": "1991",
+      "title": "The Ultimate Marketing Plan",
+      "idea": "Find your most promotable edge, your USP, and get it in front of the right prospects."
+    },
+    {
+      "year": "1993",
+      "title": "No B.S. Business Success",
+      "idea": "A blunt, contrarian survival guide to being good at running your own business. First published as Ultimate No B.S."
+    },
+    {
+      "year": "1994",
+      "title": "No B.S. Sales Success",
+      "idea": "Face-to-face selling still wins. Position yourself instead of prospecting, and use take-away selling."
+    },
+    {
+      "year": "1996",
+      "title": "No B.S. Time Management for Entrepreneurs",
+      "idea": "Guard your time on purpose: know your hourly value, block interruptions, and show up on time."
+    },
+    {
+      "year": "1996",
+      "title": "How to Make Millions with Your Ideas",
+      "idea": "How to turn an idea into a profitable business."
+    },
+    {
+      "year": "1997",
+      "title": "How to Succeed in Business by Breaking All the Rules",
+      "idea": "A contrarian playbook: plenty of business rules deserve breaking. Reissued in 2024 as a No B.S. Guide."
+    },
+    {
+      "year": "1998",
+      "title": "No Rules: 21 Giant Lies About Success",
+      "idea": "Takes apart common myths about what it takes to succeed."
+    },
+    {
+      "year": "1998",
+      "title": "Zero-Resistance Selling",
+      "idea": "Maxwell Maltz with Kennedy and others: self-image work from Psycho-Cybernetics, applied to selling."
+    },
+    {
+      "year": "1999",
+      "title": "The Ultimate Success Secret",
+      "idea": "Asks whether one success secret outranks all the others."
+    },
+    {
+      "year": "2002",
+      "title": "The New Psycho-Cybernetics",
+      "idea": "Maxwell Maltz's classic, edited and updated by Kennedy and the Psycho-Cybernetics Foundation: your self-image sets your limits."
+    },
+    {
+      "year": "2006",
+      "title": "No B.S. Direct Marketing (for Non-Direct Marketing Businesses)",
+      "idea": "Measurable, offer-driven direct marketing for ordinary businesses. Home of the ten rules."
+    },
+    {
+      "year": "2006",
+      "title": "No B.S. Wealth Attraction for Entrepreneurs",
+      "idea": "Become a magnet for opportunity, starting with dropping the guilt about money."
+    },
+    {
+      "year": "2007",
+      "title": "The Official Get Rich Guide to Information Marketing",
+      "idea": "With Bill Glazer and Robert Skrob: a nine-step process for building an info-product business."
+    },
+    {
+      "year": "2008",
+      "title": "Start Your Own Information Marketing Business",
+      "idea": "A starter guide to creating and selling information products."
+    },
+    {
+      "year": "2008",
+      "title": "No B.S. Marketing to the Affluent",
+      "idea": "Sell aspiration to affluent buyers so price stops being the deciding factor."
+    },
+    {
+      "year": "2008",
+      "title": "No B.S. Ruthless Management of People and Profits",
+      "idea": "Anti-feel-good management: enforce standards, pay for performance, and put marketing in charge."
+    },
+    {
+      "year": "2009",
+      "title": "Uncensored Sales Strategies",
+      "idea": "Lead author Sydney Biddle Barrows, with Kennedy: sell customers the experience they actually want."
+    },
+    {
+      "year": "2009",
+      "title": "My Unfinished Business",
+      "idea": "A collection of autobiographical essays."
+    },
+    {
+      "year": "2009",
+      "title": "The Phenomenon",
+      "idea": "About speeding up achievement."
+    },
+    {
+      "year": "2009",
+      "title": "Secrets of Peak Performers",
+      "idea": "Two multi-contributor anthologies (I and II) of lessons from peak performers."
+    },
+    {
+      "year": "2010",
+      "title": "Making Them Believe",
+      "idea": "With Chip Kessler: 21 marketing lessons from huckster-doctor John Brinkley. Updated in 2026."
+    },
+    {
+      "year": "2010",
+      "title": "Make 'Em Laugh & Take Their Money",
+      "idea": "Buyers in a good mood buy more, so humor helps you sell."
+    },
+    {
+      "year": "2011",
+      "title": "No B.S. Price Strategy",
+      "idea": "Question every pricing belief, price boldly, and discount only for a real reason."
+    },
+    {
+      "year": "2011",
+      "title": "Creating Trust",
+      "idea": "With Matt Zagula: the forerunner to Trust Based Marketing."
+    },
+    {
+      "year": "2012",
+      "title": "No B.S. Trust Based Marketing",
+      "idea": "With Matt Zagula: earn trust through character, consulting and authority."
+    },
+    {
+      "year": "2012",
+      "title": "No B.S. Grassroots Marketing",
+      "idea": "With Jeff Slutsky: local growth tactics for small businesses."
+    },
+    {
+      "year": "2012",
+      "title": "No B.S. Guide to Marketing to Leading Edge Boomers & Seniors",
+      "idea": "Selling to older buyers with money to spend."
+    },
+    {
+      "year": "2013",
+      "title": "Win, Place, or Die",
+      "idea": "Fiction by Les Roberts with Kennedy: a Milan Jacovich mystery set in harness racing."
+    },
+    {
+      "year": "2013",
+      "title": "Book the Business",
+      "idea": "With Adam Witty: use a book to win leads and authority, not royalties."
+    },
+    {
+      "year": "2014",
+      "title": "No B.S. Guide to Brand-Building by Direct Response",
+      "idea": "With Jim Cavale and Forrest Walden: build a brand as a side effect of getting responses."
+    },
+    {
+      "year": "2014",
+      "title": "The Direct Mail Solution",
+      "idea": "Direct mail as a response channel."
+    },
+    {
+      "year": "2015",
+      "title": "No B.S. Guide to Direct Response Social Media Marketing",
+      "idea": "With Kim Walsh Phillips: social media only counts if it produces measurable sales."
+    },
+    {
+      "year": "2016",
+      "title": "No B.S. Guide to Maximum Referrals and Customer Retention",
+      "idea": "With Shaun Buck: keep customers longer and multiply your referrals."
+    },
+    {
+      "year": "2016",
+      "title": "Speak to Sell",
+      "idea": "Selling from the stage."
+    },
+    {
+      "year": "2016",
+      "title": "Speaking of Murder",
+      "idea": "Fiction by Les Roberts with Kennedy: a motivational-speaking event turns deadly."
+    },
+    {
+      "year": "2017",
+      "title": "No B.S. Guide to Powerful Presentations",
+      "idea": "With Dustin Mathews and others: a 12-part structure for presentations that sell."
+    },
+    {
+      "year": "2018",
+      "title": "Magnetic Marketing: How To Attract A Flood Of New Customers That Pay, Stay, and Refer",
+      "idea": "Attract customers instead of chasing them, with systems for attraction, conversion and retention."
+    },
+    {
+      "year": "2019",
+      "title": "Almost Alchemy",
+      "idea": "How to get more results out of less."
+    },
+    {
+      "year": "2020",
+      "title": "Renegade Millionaire: 7 Secrets To Extreme Wealth, Autonomy, And Entrepreneurial Success",
+      "idea": "With Lee Milteer: autonomy-focused habits drawn from 150+ self-made millionaires."
+    },
+    {
+      "year": "2020",
+      "title": "Magnetic Marketing For Dentists",
+      "idea": "The attract-don't-chase approach, adapted for dental practices."
+    },
+    {
+      "year": "2021",
+      "title": "Magnetic Marketing for Lawyers",
+      "idea": "The same approach, adapted for law firms."
+    },
+    {
+      "year": "2021",
+      "title": "Why Advertising Fails",
+      "idea": "Ads fail when they lack a clear, measurable direct-response purpose."
+    },
+    {
+      "year": "2021",
+      "title": "Franchise Bible",
+      "idea": "A franchising reference; Kennedy is credited on the 9th edition with Michael J. Katz and Rick Grossmann."
+    },
+    {
+      "year": "2022",
+      "title": "The Best of No B.S.",
+      "idea": "A greatest-hits anthology of the series."
+    },
+    {
+      "year": "2024",
+      "title": "No B.S. Guide to Successful Marketing Automation",
+      "idea": "With Parthiv Shah: using tech, automation, and AI in your marketing."
+    },
+    {
+      "year": "2025",
+      "title": "No B.S. Guide to Selling Your Company for Top Dollar",
+      "idea": "With David Melrose: grow a business so it sells at a premium."
+    },
+    {
+      "year": "2026",
+      "title": "The Business Owner's Emergency Survival Guide For the A.I. Revolution",
+      "idea": "Survive the AI shift by keeping strategic thinking in the owner's hands."
+    }
+  ],
+  "footer": [
+    "<b>Fax is an AI marketing coach, not a person.</b> He is an independent, fan-made character, and he is not Dan Kennedy. Just Fax is not affiliated with, endorsed by, or sponsored by Dan S. Kennedy, Magnetic Marketing, Etison LLC, or his publishers. His name and book titles appear here only to credit where the ideas come from.",
+    "NO B.S., MAGNETIC MARKETING, and RENEGADE MILLIONAIRE are registered trademarks of Etison LLC. We use them only to name his books and his company, never as a name for anything of ours. \"No B.S.\" and every other mark on this page belong to their owners. For the real thing, go to <a href=\"https://magneticmarketing.com\" rel=\"noopener\">magneticmarketing.com</a>.",
+    "Educational only. Not financial, legal, or tax advice, and Fax can be wrong, so check his math before you spend money. Nothing here promises sales or income. Your results depend on your product, your buyers, and the work you put in."
+  ]
+}
