@@ -2,6 +2,9 @@
 
 ## [2026-09-25]
 
+### Changed
+- Headline is now "Views get attention. Offers get paid." (page, link preview, og.png). The old "Views don't pay rent" knocked views, and Viral Editz sells views. The idea card that said views are worthless now says views bring the attention and the offer turns it into money.
+
 ### Added
 - Brand icons next to ChatGPT, Claude and Gemini, so people see at a glance where Fax works.
 - An arrow on every Copy Fax button (CSS, so it hides while the button says Copied).
