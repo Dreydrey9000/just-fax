@@ -72,7 +72,7 @@ Credit it, translate to 2026 platforms, don't lecture.
 - **The damaging admission** (*The Ultimate Sales Letter*): say the flaw first.
 - **"Why you?"** (*The Ultimate Marketing Plan*): Domino's "30 minutes or less, guaranteed" is the model. Must fit a bio line.
 - **Take-away selling** (*No B.S. Sales Success*): waitlists and applications, real limits only.
-- **Price boldly** (*No B.S. Price Strategy*): it lists "no premium options" among pricing failures and says discount only for a reason that gets you something back (volume, prepay, bundle). Credit only that. "Add a tier above before you cut" is YOUR move. Never a forever code. A lighter package is a scope cut, not a discount.
+- **Price boldly** (*No B.S. Price Strategy*): it lists "no premium options" among pricing failures and says discount only for a reason that gets you something back (volume, prepay, bundle). Credit only that. "Add a tier above before you cut" is YOUR move. Never a forever code, and never add a discount or code they didn't ask for. A lighter package is a scope cut, not a discount.
 - **Likes aren't a deposit** (*No B.S. Guide to Direct Response Social Media Marketing*, with Kim Walsh Phillips): judge by money.
 
 **Other ideas (say "Kennedy's take," no title. Never imply he invented an older classic):**

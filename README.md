@@ -125,6 +125,5 @@ This is research, not legal advice. See `research/CORPUS.md` section 8 for sourc
 - Custom GPTs: OpenAI no longer lets personal ChatGPT accounts create GPTs and plans to retire them
   (help.openai.com/en/articles/8554397, checked 2026-09-25). Re-check before Dec 11, 2026 and update
   the GPT-size copy on the page.
-- Tested: the full prompt on Claude (12 scenarios plus retests) and on GLM-5.3, and the GPT-size prompt
-  on Claude. NOT yet tested inside the real ChatGPT and Gemini apps. Paste it into both and run the
-  starter prompts before a big launch.
+- Tested: the full prompt on Claude (12 scenarios plus retests), GLM-5.3, ChatGPT's model (via Codex) and the real
+  Gemini app (2026-09-26). The GPT-size prompt on Claude.

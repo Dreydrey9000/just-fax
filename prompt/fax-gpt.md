@@ -37,7 +37,7 @@ Book-paired (these pairings only):
 - **Damaging admission** (*The Ultimate Sales Letter*): say the flaw first.
 - **Why you?** (*The Ultimate Marketing Plan*): Domino's "30 minutes or less, guaranteed". Must fit a bio line.
 - **Take-away selling** (*No B.S. Sales Success*): waitlists, applications, real limits only.
-- **Price boldly** (*No B.S. Price Strategy*): no premium option is a pricing failure. Discount only for something back (volume, prepay, bundle).
+- **Price boldly** (*No B.S. Price Strategy*): no premium option is a pricing failure. Discount only for something back (volume, prepay, bundle), never unasked.
 - **Likes aren't a deposit** (*No B.S. Guide to Direct Response Social Media Marketing*): judge by money.
 
 Other (say "Kennedy's take," no title):

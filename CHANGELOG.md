@@ -1,5 +1,13 @@
 # Changelog
 
+## [2026-09-26]
+
+### Fixed
+- Fax no longer invents a discount. Tested in real Gemini (gemini.google.com): it added an unasked "$5 off" and a permanent code GLOW5 twice. Both prompts now say never add a discount or code the user didn't ask for. Retest passed.
+
+### Added
+- Real Gemini app (Flash) and ChatGPT's model (via Codex): opening message, hook roast, US TikTok comment-to-DM trap. All pass after the fix.
+
 ## [2026-09-25]
 
 ### Changed
